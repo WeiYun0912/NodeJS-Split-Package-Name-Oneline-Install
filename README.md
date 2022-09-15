@@ -1,5 +1,10 @@
 # NodeJS-Split-Package-Name-Oneline-Install
 
+使用該程式前請先執行
+```
+npm install
+```
+
 在開發新專案的時候如果有很多套是跟舊專案的 dependencies 一樣的話，通常都要一個一個把名稱複製貼到terminal，所以決定製作一個程式來簡化這段流程。
 
 ![image](https://user-images.githubusercontent.com/42636085/190314707-d1f15b06-0b2a-4b6c-b5f4-adfa23a8fb7c.png)
