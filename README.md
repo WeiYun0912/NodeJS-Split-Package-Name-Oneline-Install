@@ -18,5 +18,9 @@ node index.js "@apollo/client": "^3.6.9",
     "react-native-vector-icons": "^9.2.0"
 ```
 
-output：
+![image](https://user-images.githubusercontent.com/42636085/190314149-8c54e0f1-b5c7-4060-91af-f74f36bd7bff.png)
 
+
+
+output：
+![image](https://user-images.githubusercontent.com/42636085/190314207-43c9bb3b-cbd3-48de-becd-55710e9202c5.png)
