@@ -20,7 +20,6 @@ node index.js "@apollo/client": "^3.6.9",
 
 ![image](https://user-images.githubusercontent.com/42636085/190314149-8c54e0f1-b5c7-4060-91af-f74f36bd7bff.png)
 
-
-
-output：
+Output：
+成功執行後會看到下圖的畫面，程式內也使用了clipboardy套件，自動將npm install的文字複製到電腦的剪貼簿，所以直接在新的專案底下ctrl+v就可以將以下文字貼上了。
 ![image](https://user-images.githubusercontent.com/42636085/190314207-43c9bb3b-cbd3-48de-becd-55710e9202c5.png)
